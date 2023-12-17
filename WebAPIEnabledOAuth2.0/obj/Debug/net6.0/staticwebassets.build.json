@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IzfHp1lXDTKr1zDc1GDI7rv7N6TiI4/SczuycQaZfWQ=",
+  "Source": "WebAPIEnabledOAuth2.0",
+  "BasePath": "_content/WebAPIEnabledOAuth2.0",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

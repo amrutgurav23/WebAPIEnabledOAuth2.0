@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAPIEnabledOAuth2.0.props" />
+</Project>
